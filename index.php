@@ -1,6 +1,6 @@
 <?
 
-	echo "Olá mundo 456!";
+	echo "Olá mundo!";
 
 	echo "Olá Udemy e Hcode!";
 
